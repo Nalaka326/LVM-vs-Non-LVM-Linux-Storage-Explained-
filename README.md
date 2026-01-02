@@ -155,3 +155,8 @@ You cannot expand without breaking walls.
 ### LVM
 **Movable walls in an office**  
 You can resize rooms anytime.
+
+---
+**Author:** Nalaka326     
+**Last Updated:** January 2026  
+**Tested on:** Ubuntu Server
